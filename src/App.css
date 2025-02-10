@@ -70,6 +70,10 @@ form .flex-wrap {
   position: relative;
 }
 
+.meme-container img {
+  max-width: 30rem;
+}
+
 .top-text,
 .bottom-text {
   position: absolute;
